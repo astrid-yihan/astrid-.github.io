@@ -1,5 +1,5 @@
----
-name: Ghost
+
+name: Yihan
 id: ghost
 image: /images/ghost-icon.png
 cover:

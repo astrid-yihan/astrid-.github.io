@@ -1,6 +1,6 @@
 ---
-title: Editing Posts with Ember Ghost
-image: /images/writing.jpg
+title: Redesign Bookmark for Zhihu
+image: /images/bookmark.png
 imageMeta:
   attribution:
   attributionLink:
@@ -10,6 +10,38 @@ date: Tue Jun 12 2018 17:58:54 GMT+0100 (IST)
 tags:
   - getting-started
 ---
+
+### Background
+
+1. 知乎上1.收藏夹内容本身已经经过了用户的一轮筛选，其内容的质量和相关性都有一定的保证，具备作为结构化内容在站内流通的基础.
+
+2. 用户收藏流程如下，主要问题为新用户第一次收藏时，必然需要经历新建收藏夹的步骤，对于新用户来说成本太高.
+
+3. 收藏夹目前的主要曝光途径只有 profile 页、我的关注以及热门收藏夹，在站内流通不足。的用户分层区别较大，不能使用单一常规的维度作为用户荣誉性的体现.
+
+### 目标
+1. 用最低的成本降低用户收藏内容的门槛.
+
+2. 提升收藏夹在站内的曝光和流通，增加收藏夹内容的互动.
+
+### 衡量指标
+绑定话题量 300 ，可用收藏夹数 1000.
+
+### 我的角色
+### 收集反馈
+### 北极星
+
+
+
+
+
+### 设计方案
+1. 点击收藏后跳转新页面，导致用户操作成本太高，不符合用户预期，所以简化流程，点击收藏后在当前页面直接弹窗展示.
+
+2. 增加默认收藏夹，当用户没有收藏夹时点击收藏出现未生成的收藏夹，点击完成后收藏夹生成，并且与其他收藏夹没有区别，后期可以进行编辑操作.
+
+3. 在话题页增加热门收藏夹的展示，提高收藏夹使用频率.
+![bookmark](/images/bookmark.png)
 
 Ember Ghost uses a language called **Markdown** to format text, and so does the original Ghost 🎉
 

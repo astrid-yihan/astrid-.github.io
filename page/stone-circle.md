@@ -1,11 +1,11 @@
 ---
-title: Built with ❤️ by Stone Circle
+title: About Me ❤️
 image: /images/built-by.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: ghost
+author: yihan
 date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
 ---
