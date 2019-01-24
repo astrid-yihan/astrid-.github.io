@@ -1,0 +1,15 @@
+body, p {
+font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif
+}
+
+p{
+font-size: 0.8em;
+}
+
+.post-card-content {
+    justify-content: center;
+}
+
+.post-full-content img, .post-full-content video {
+    max-width: 100%;
+}
