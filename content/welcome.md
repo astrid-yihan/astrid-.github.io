@@ -9,7 +9,7 @@ author: ghost
 date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 ---
 
-### Background
+### 背景
 
 • 知乎上的用户分层区别较大，不能使用单一常规的维度作为用户荣誉性的体现.
 
