@@ -32,6 +32,9 @@ module.exports = function(environment) {
         label: 'Work',
         route: 'index'
       },{
+        label: 'Illustration',
+        route: 'index'
+      },{
         label: 'About',
         route: 'page',
         id: 'stone-circle'
