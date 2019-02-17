@@ -1,5 +1,5 @@
 ---
-title: Organising your content with tags
+title: Zhihu 微信小程序 Guest 帐号方案
 image: /images/tags.jpg
 imageMeta:
   attribution:
@@ -10,6 +10,33 @@ date: Tue Jun 12 2018 17:57:10 GMT+0100 (IST)
 tags:
   - getting-started
 ---
+
+### 背景
+• 微信小程序每天新增 4000 左右的「未激活」用户
+
+• 这些「未激活」用户导致了帐号的分裂，和用户的困惑
+
+• 在购买付费内容时，由于 App 和微信帐号不一致，在 App 内看不到购买的内容，导致用户投诉
+
+### 目标
+• 统一小程序的登录注册逻辑，形成统一的组件
+
+• 减少用户帐号的分裂
+
+### 数据指标
+• 每天新增的「未激活」用户下降到 300 以下
+*** wiki 产品流程图
+
+### 遇到的问题
+• 会有手机号登陆和微信登录两种情况，我们无法判断～～～
+
+### 最终设计
+解决了什么问题
+*** 图片
+
+### 最终数据
+
+### 项目体验
 
 Ember Ghost has a single, powerful organisational taxonomy, called tags.
 
