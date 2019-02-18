@@ -29,6 +29,7 @@ tags:
 
 ### 遇到的问题
 • 会有手机号登陆和微信登录两种情况，我们无法判断～～～
+*** 或者可以增加一张图片
 
 ### 最终设计
 解决了什么问题
@@ -37,6 +38,7 @@ tags:
 ### 最终数据
 
 ### 项目体验
+更了解我们的数据、后台运行、用户习惯
 
 Ember Ghost has a single, powerful organisational taxonomy, called tags.
 

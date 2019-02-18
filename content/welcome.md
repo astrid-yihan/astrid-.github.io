@@ -122,20 +122,6 @@ date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 😁在交互成型时应该更好的加入策略
 
 🎉永远不要忘记自己为项目制订的目标,有一个明确的目标可以大大提高我们设计时的工作效率!
-hshs
-
-```sh
-# if you don't have ember-cli installed already
-npm install -g ember-cli
-
-ember new super-blog
-cd super-blog
-
-ember install ember-ghost ember-ghost-casper-template
-```
-
-It will ask you if you want to update the `index.html` file and you should say yes 👍
-
 If you want to see the blog system running on your local machine just run `npm start` and you will
 be able to navigate to  [http://localhost:4200](http://localhost:4200) to see the blog in action.
 
