@@ -18,3 +18,10 @@ If you are interested in how this works then go checkout the [Ember Ghost](https
 npm run build
 npm run deploy
 ```
+
+## yunxing
+ 
+```
+cd ~/Documents/Github/yihan-design
+npm start
+```
