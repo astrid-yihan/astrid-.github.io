@@ -2739,7 +2739,7 @@ catch(err) {
 ;
 if (typeof FastBoot === 'undefined') {
   if (!runningTests) {
-    require('ember-ghost-blog/app')['default'].create({"name":"ember-ghost-blog","version":"0.0.0+68937d35"});
+    require('ember-ghost-blog/app')['default'].create({"name":"ember-ghost-blog","version":"0.0.0+31ab6f4b"});
   }
 }
 
