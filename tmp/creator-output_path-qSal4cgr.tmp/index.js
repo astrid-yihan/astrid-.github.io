@@ -1,0 +1,1 @@
+export { default } from 'ember-ghost-blog/config/environment';

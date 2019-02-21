@@ -1,0 +1,1 @@
+/Users/yihan/Documents/GitHub/yihan-design/tmp/broccoli_merge_trees-input_base_path-htEv9YAw.tmp/1/ember-ghost-blog/templates/page.js

@@ -1,0 +1,1 @@
+/Users/yihan/Documents/GitHub/yihan-design/tmp/broccoli_merge_trees-input_base_path-gwOA94Ii.tmp/0/ember-cli-shims/app-shims.js

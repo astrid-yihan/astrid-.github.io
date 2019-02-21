@@ -1,0 +1,1 @@
+Ember.libraries.register('Ember Postcss', '3.7.1');

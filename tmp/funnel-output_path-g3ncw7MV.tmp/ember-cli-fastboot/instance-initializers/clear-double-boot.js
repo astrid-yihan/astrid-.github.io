@@ -1,0 +1,1 @@
+/Users/yihan/Documents/GitHub/yihan-design/tmp/funnel-input_base_path-z10SZBet.tmp/instance-initializers/clear-double-boot.js

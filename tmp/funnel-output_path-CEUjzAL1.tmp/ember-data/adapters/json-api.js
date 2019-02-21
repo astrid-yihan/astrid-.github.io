@@ -1,0 +1,1 @@
+/Users/yihan/Documents/GitHub/yihan-design/tmp/funnel-input_base_path-2U489KSr.tmp/adapters/json-api.js

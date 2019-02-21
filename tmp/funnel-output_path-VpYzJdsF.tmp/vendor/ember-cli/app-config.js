@@ -1,0 +1,1 @@
+/Users/yihan/Documents/GitHub/yihan-design/tmp/funnel-input_base_path-Qa9y439N.tmp/app-config.js

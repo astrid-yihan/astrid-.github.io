@@ -1,0 +1,1 @@
+/Users/yihan/Documents/GitHub/yihan-design/node_modules/ember-cli-head/app/instance-initializers/head-browser.js

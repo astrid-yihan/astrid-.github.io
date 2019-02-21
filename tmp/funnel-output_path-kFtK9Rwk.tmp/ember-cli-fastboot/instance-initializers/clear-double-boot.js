@@ -1,0 +1,1 @@
+/Users/yihan/Documents/GitHub/yihan-design/tmp/funnel-input_base_path-VaxPCOgM.tmp/instance-initializers/clear-double-boot.js

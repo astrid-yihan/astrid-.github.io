@@ -1,0 +1,1 @@
+/Users/yihan/Documents/GitHub/yihan-design/tmp/broccoli_persistent_filterbabel__babel_modules_for_templates-output_path-sSV2cPIc.tmp/ember-cli-head/templates/components/head-layout.js
